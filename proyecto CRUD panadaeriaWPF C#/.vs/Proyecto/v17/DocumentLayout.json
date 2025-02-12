@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\proyecto final wpf c#\\proyecto\\proyecto\\pedi\\pedidosagregarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\pedi\\pedidosagregarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\proyecto final wpf c#\\proyecto\\proyecto\\pedi\\pedidosagregarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\pedi\\pedidosagregarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\proyecto final wpf c#\\proyecto\\proyecto\\ventasvistabotones\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\ventasvistabotones\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\proyecto final wpf c#\\proyecto\\proyecto\\viws\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\proyecto final wpf c#\\proyecto\\proyecto\\viws\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosAgregarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "RelativeToolTip": "Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAcwLIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:58:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosAgregarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Pedi\\PedidosAgregarPage.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\Pedi\\PedidosAgregarPage.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Pedi\\PedidosAgregarPage.xaml",
+              "RelativeToolTip": "Proyecto\\Pedi\\PedidosAgregarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T16:56:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedidos.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Viws\\Pedidos.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Pedidos.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Viws\\Pedidos.xaml",
+              "RelativeToolTip": "Proyecto\\Viws\\Pedidos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T22:16:39.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Viws\\Pedidos.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Pedidos.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\Viws\\Pedidos.xaml.cs",
+              "RelativeToolTip": "Proyecto\\Viws\\Pedidos.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:14:00.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\proyecto final WPF C#\\Proyecto\\Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "RelativeToolTip": "Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:42:12.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
