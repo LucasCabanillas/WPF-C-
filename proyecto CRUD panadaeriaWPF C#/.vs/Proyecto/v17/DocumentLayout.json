@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\pedi\\modificarpedidospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\pedi\\modificarpedidospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\pedi\\pedidosagregarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\pedi\\pedidosagregarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\ventasvistabotones\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\ventasvistabotones\\agregar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\ventasvistabotones\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\ventasvistabotones\\agregar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\clases\\codificarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\clases\\codificarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\viws\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\viws\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\viws\\usuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\usuarios.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|c:\\users\\caban\\desktop\\wpf-c-\\wpf-c-\\proyecto crud panadaeriawpf c#\\proyecto\\viws\\ventas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7767891E-A2FA-4739-B97B-6F193E87C430}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\viws\\ventas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "RelativeToolTip": "Proyecto\\VentasVistaBotones\\Agregar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:20:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agregar.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\VentasVistaBotones\\Agregar.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\VentasVistaBotones\\Agregar.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\VentasVistaBotones\\Agregar.xaml",
+              "RelativeToolTip": "Proyecto\\VentasVistaBotones\\Agregar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T16:20:50.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModificarPedidosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Pedi\\ModificarPedidosPage.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Pedi\\ModificarPedidosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Pedi\\ModificarPedidosPage.xaml.cs",
+              "RelativeToolTip": "Proyecto\\Pedi\\ModificarPedidosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:10:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosAgregarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "RelativeToolTip": "Proyecto\\Pedi\\PedidosAgregarPage.xaml.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:07:56.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodificarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Clases\\CodificarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Clases\\CodificarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Clases\\CodificarContrase\u00F1a.cs",
+              "RelativeToolTip": "Proyecto\\Clases\\CodificarContrase\u00F1a.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:43:06.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Clases\\Conexion.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Clases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Clases\\Conexion.cs",
+              "RelativeToolTip": "Proyecto\\Clases\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:42:21.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedidos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Pedidos.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Pedidos.xaml.cs",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Pedidos.xaml.cs",
+              "RelativeToolTip": "Proyecto\\Viws\\Pedidos.xaml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:10:03.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedidos.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Pedidos.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Pedidos.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Pedidos.xaml",
+              "RelativeToolTip": "Proyecto\\Viws\\Pedidos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T07:09:52.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuarios.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Usuarios.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Usuarios.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Usuarios.xaml",
+              "RelativeToolTip": "Proyecto\\Viws\\Usuarios.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T06:56:01.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ventas.xaml",
+              "DocumentMoniker": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Ventas.xaml",
+              "RelativeDocumentMoniker": "Proyecto\\Viws\\Ventas.xaml",
+              "ToolTip": "C:\\Users\\caban\\Desktop\\WPF-C-\\WPF-C-\\proyecto CRUD panadaeriaWPF C#\\Proyecto\\Viws\\Ventas.xaml",
+              "RelativeToolTip": "Proyecto\\Viws\\Ventas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T06:55:44.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
